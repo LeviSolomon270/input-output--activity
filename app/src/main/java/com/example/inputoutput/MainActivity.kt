@@ -40,7 +40,8 @@ class MainActivity : AppCompatActivity() {
                     }
                     displayText.text = greeting
                     } else {
-
+            if(nameText.text.toString() == "Tom" ||
+                        nameText.text.toString() == "Tommy")
                 }
             }
         }
