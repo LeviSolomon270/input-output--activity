@@ -32,7 +32,22 @@
         android:layout_width="123dp"
         android:layout_height="73dp"
         android:text="CLICK ME"
-        tools:layout_editor_absoluteX="325dp"
-        tools:layout_editor_absoluteY="924dp" />
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="603dp" />
+
+    <Switch
+        android:id="@+id/zuluSwitch"
+        android:layout_width="93dp"
+        android:layout_height="35dp"
+        android:text="zulu"
+        tools:layout_editor_absoluteX="152dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <Spinner
+        android:id="@+id/Lamguages"
+        android:layout_width="409dp"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="1dp"
+        tools:layout_editor_absoluteY="153dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
