@@ -44,7 +44,7 @@
         tools:layout_editor_absoluteY="257dp" />
 
     <Spinner
-        android:id="@+id/Lamguages"
+        android:id="@+id/Languages"
         android:layout_width="409dp"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="1dp"
